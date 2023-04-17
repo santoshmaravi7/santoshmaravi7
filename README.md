@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently doing b.tech in from government college jabalpur(J.EC JABALPUR)
+- 🔭 I’m currently doing b.tech in from government college jabalpur(JEC JABALPUR).
 - 🌱 I’m currently learning Artificial Learning,Machine Learning and some programmming languages.
 - 👯 I’m looking to collaborate on coding related platforms.
 - 🤔 I’m looking for help with AI, ML AND WEBDEVS.
